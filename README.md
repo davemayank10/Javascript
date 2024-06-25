@@ -1,2 +1,2 @@
 # Javascript
-Coding of javascript
+Coding using javascript
